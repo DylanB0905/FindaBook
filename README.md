@@ -11,9 +11,9 @@ This is an app that allows a user to search up books by name or author that foll
 
 
 
-[A deployed version can be viewed here.](https://burnsjatetext.herokuapp.com/)
+[A deployed version can be viewed here.](https://mybooksearch.herokuapp.com/)
 
-See the application's GitHub repository [here.](https://github.com/DylanB0905/pwa-text-editor)
+See the application's GitHub repository [here.](https://github.com/DylanB0905/FindaBook)
 
   ---
   ## Table of Contents
@@ -42,7 +42,7 @@ See the application's GitHub repository [here.](https://github.com/DylanB0905/pw
   ---
   ## Contributing
   To contribute to this application: 
-  Please email the author for guidelines.
+  Please [email](dylanburns698@gmail.com) the author for guidelines.
 
   ---
   ## Tests
@@ -53,6 +53,7 @@ See the application's GitHub repository [here.](https://github.com/DylanB0905/pw
   The following people/resources were consulted and/or utilized in the development of this application:
   * [Stackoverflow](https://stackoverflow.com) for troubleshooting
   * Coding Bootcamp Heroku deplyoment guide.
+  * Code from my groups 3rd project in the UNH Coding bootcamp.
 
   ---
   ## Questions
